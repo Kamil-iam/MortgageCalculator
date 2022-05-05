@@ -3,7 +3,7 @@
 # (str) Title of your application
 title = Mortgage Calculator
 
-# (str) Package name
+# (str) Package name 1
 package.name = mortgagecalculator
 
 # (str) Package domain (needed for android/ios packaging)
